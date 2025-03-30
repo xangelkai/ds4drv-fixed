@@ -9,6 +9,6 @@ This fork fixes compatibility issues with Python 3 and updates deprecated functi
 ## 📦 Installation
 
 ```bash
-git clone git@github.com:xangelkai/ds4drv-fixed.git
+git clone https://github.com/xangelkai/ds4drv-fixed
 cd ds4drv-fixed
 sudo python3 setup.py install
